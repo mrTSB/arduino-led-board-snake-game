@@ -7,3 +7,5 @@ To run this program physically connect to the arduino and update the port and ba
 Then run python server.py after installing correct pip packages from imports at the top of this file.
 
 Then open the localhost and play snake. If you arduino is connected to the proper LED board as pictured, it will show the game on the LEDs.
+
+There are examples of what it looks like in the images.
